@@ -51,7 +51,7 @@ We utilize a dataset with 11 clinical features for predicting stroke events. You
     ```
 
 ## Features:
-### 1.Data Ingestion with Airflow
+### 1. Data Ingestion with Airflow
 
 ### 2. Monitor with Grafana 
 
